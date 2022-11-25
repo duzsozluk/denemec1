@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main(int argc, char *argv[]) {
+ printf("merhaba canım dunyam");
+    //burası giriş kısmı temelde olur kısaca bir şey yazdırmak için "printf" ile kullanılır. not: içine printf in içine yazarken Türkçe dil desteği olmadığını dikkate alarak yazın ü değil u olur.
+    // ; programlama dilinde satırın sonlandığı anlamına gelir. iki slaş yani  u ikili koda dahil değildir açıklama için kullanılır.
+    return 0;}
